@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrolling-down-animation/static/css/main.d0361e88.css",
+    "main.js": "/scrolling-down-animation/static/js/main.5bdd1994.js",
+    "index.html": "/scrolling-down-animation/index.html",
+    "main.d0361e88.css.map": "/scrolling-down-animation/static/css/main.d0361e88.css.map",
+    "main.5bdd1994.js.map": "/scrolling-down-animation/static/js/main.5bdd1994.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0361e88.css",
+    "static/js/main.5bdd1994.js"
+  ]
+}
